@@ -5,7 +5,6 @@ const uglifyJS = require('uglify-js');
 
 function displayHelp() {
   console.log(`
-Description:
 
 Bundle is a script that concatenates multiple JavaScript files into a single bundled file.
 
