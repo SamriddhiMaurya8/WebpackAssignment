@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "uglify-js": "^3.19.2"
+  },
+  "name": "newassignment",
+  "version": "1.0.0",
+  "main": "bundle.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "node bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
